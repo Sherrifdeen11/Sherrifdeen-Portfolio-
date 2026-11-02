@@ -14,7 +14,7 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 - 🎯 Open to Data Analyst Internships, Junior Data Analyst opportunities, and remote opportunities.
 
 ## Tools & Technologies
--Microsoft Excel: Data Cleaning, Data Analysis, PivotTables, Formulas, and Dashboards.
--Power BI: Data Visualization, Interactive Dashboards and DAX.
--R Programming: Data Manipulation, Statistical Analysis, and Visualization.
--GitHub: Project Documentation and Portfolio Management.
+- Microsoft Excel: Data Cleaning, Data Analysis, PivotTables, Formulas, and Dashboards.
+- Power BI: Data Visualization, Interactive Dashboards and DAX.
+- R Programming: Data Manipulation, Statistical Analysis, and Visualization.
+- GitHub: Project Documentation and Portfolio Management.
