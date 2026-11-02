@@ -21,7 +21,7 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 
   ## My Project
   - [Sales Analysis Performance](https://github.com/Sherrifdeen-Portfolio/DecodeLabs-Internship)
-  - [Sales Analysis Dashboard] (....)
+  - [Sales Analysis Dashboard](https://github.com/Sherrifdeen-Portfolio/DecodeLabs-Internship)
   - [Customer Data Analysis](https://github.com/Sherrifdeen-Portfolio/Customer-Data-Project)
  
   ## Currently Learning
@@ -32,4 +32,4 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 
 ## Let's Connect!
 - [Linkedin](https://www.linkedin.com/in/sherrifdeen-ahmed-7528a6341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Email](omogiafoahmed@gmail.com)
+
