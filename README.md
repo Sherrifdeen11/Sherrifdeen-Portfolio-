@@ -20,7 +20,8 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 - GitHub: Project Documentation and Portfolio Management.
 
   ## My Project
-  - [Sales Analysis Performance] (....)
+  - [Sales Analysis Performance](https://github.com/Sherrifdeen-Portfolio/DecodeLabs-Internship)
+  - [Sales Analysis Dashboard] (....)
   - [Customer Data Analysis](https://github.com/Sherrifdeen-Portfolio/Customer-Data-Project)
  
   ## Currently Learning
