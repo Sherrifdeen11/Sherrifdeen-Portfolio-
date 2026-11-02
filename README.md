@@ -8,7 +8,7 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 - 🎓 Background in Chemistry.
 - 📊 Passionate about Data Analytics and Business Intelligence.
 - 🔍 Interested in data cleaning, exploration, visualization, and reporting.
-- 💻 Building practical projects using Excel, Power BI, R, and SQL.
+- 💻 Building practical projects using Excel, Power BI and R.
 - 📈 Interested in using data to solve business problems and support informed decision-making.
 - 🌱 Currently improving my skills in SQL, R programming, Power BI, and Statistics.
 - 🎯 Open to Data Analyst Internships, Junior Data Analyst opportunities, and remote opportunities.
