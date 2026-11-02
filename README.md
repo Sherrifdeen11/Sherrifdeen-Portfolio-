@@ -21,7 +21,8 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 
   ## My Project
   - [Sales Analysis Performance](https://github.com/Sherrifdeen-Portfolio/DecodeLabs-Internship)
-  - [Sales Analysis Dashboard](DecodelabsDashboard.png)
+  - [Sales Analysis Dashboard](https://github.com/Sherrifdeen-Portfolio/DecodeLabs-Internship/blob/main/Decodelabs%20Dashboard.png?raw=true)
+    
   - [Customer Data Analysis](https://github.com/Sherrifdeen-Portfolio/Customer-Data-Project)
  
   ## Currently Learning
