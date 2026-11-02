@@ -1,6 +1,6 @@
-# Hi, I’m Sherrifdeen!
+## Hi, I’m Sherrifdeen!
 
-Aspiring Data Analyst | Excel | Power BI | R
+# Aspiring Data Analyst | Excel | Power BI | R
 
 I’m an aspiring Data Analyst with a background in Chemistry and a growing passion for transforming raw data into meaningful insights that support business decisions. I enjoy exploring datasets, identifying patterns, solving problems, and presenting findings through data visualizations and dashboards. I’m continuously developing my analytical and technical skills through practical projects, hands-on learning, and real-world business scenarios.
 
@@ -18,3 +18,13 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 - Power BI: Data Visualization, Interactive Dashboards and DAX.
 - R Programming: Data Manipulation, Statistical Analysis, and Visualization.
 - GitHub: Project Documentation and Portfolio Management.
+
+  ## My Project
+  - [Sales Analysis Performance] (....)
+  - [Customer Data Analysis] (.....)
+ 
+  ## Currently Learning
+  - SQL
+  - Power BI and DAX
+  - Statistics Analysis
+  - Data Visualization
