@@ -21,7 +21,7 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 
   ## My Project
   - [Sales Analysis Performance] (....)
-  - [Customer Data Analysis] (https://github.com/Sherrifdeen-Portfolio/Customer-Data-Project)
+  - [Customer Data Analysis](https://github.com/Sherrifdeen-Portfolio/Customer-Data-Project)
  
   ## Currently Learning
   - SQL
