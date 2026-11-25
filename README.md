@@ -33,4 +33,4 @@ I’m an aspiring Data Analyst with a background in Chemistry and a growing pass
 
 ## Let's Connect!
 - [Linkedin](https://www.linkedin.com/in/sherrifdeen-ahmed-7528a6341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Gmail](omogiafoahmed@gmail.com)
+- [Gmail](mailto:omogiafoahmed@gmail.com)
